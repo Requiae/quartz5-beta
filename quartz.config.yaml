@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: a
+  baseUrl: https://requiae.github.io/quartz5-beta/
   ignorePatterns:
     - private
     - templates
