@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.tags.contains("Item")
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - formula.Untitled
+    image: file.file
+    cardSize: 210
+    imageAspectRatio: 1
+  - type: table
+    name: View

@@ -1,0 +1,28 @@
+---
+tags:
+  - phb
+  - 1st-level
+  - conjuration
+  - spell
+source: Player's Handbook
+level: 1st-level
+school: conjuration
+classes:
+  - Bard (Magical Secrets)
+  - Druid
+  - Ranger
+title: Entangle
+---
+
+_1st-level, Conjuration_
+
+- **Casting time:** 1 Action
+- **Range:** 90 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+
+Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
+
+A creature in the area when you cast the spell must succeed on a Strength saving throw or be [[Conditions#Restrained|restrained]] by the entangling plants until the spell ends. A creature [[Conditions#Restrained|restrained]] by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+
+When the spell ends, the conjured plants wilt away.
